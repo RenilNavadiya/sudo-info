@@ -190,7 +190,8 @@ Start Server
 2) FOR PUSH CHANGES
 	-> git add -A
 	-> git commit -m "comment"
-	-> git push origin master
+	-> git push -u origin main
+
 
 ----------------------------------------------------------ANGULER JS-------------------------------------------------
 1) CREATE NEW PROJECT.
